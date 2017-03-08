@@ -1,4 +1,4 @@
-# Selenium script for automating jango.com
+# Selenium script for jango.com on restricted network
 
 If you are on a network which block ads and station on jango.com keeps going off air.
 Then this is the script for you. Which reloads automatically if station has gone off air.
