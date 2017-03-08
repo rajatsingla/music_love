@@ -6,13 +6,20 @@ Then this is the script for you. Which reloads automatically if station has gone
 ## Getting Started
 
 For ubuntu
+
+- Download chromedriver from
+
+  https://sites.google.com/a/chromium.org/chromedriver/downloads     
+  *make sure chromedriver and your chrome version are compatible*
+
+- Run following
+
 ```
 sudo pip install selenium
-https://sites.google.com/a/chromium.org/chromedriver/downloads
-*make sure chromedriver and your chrome version are compatible*
 mv /home/ubuntu/Downloads/chromedriver /usr/bin/
 chmod +x /usr/bin/chromedriver
-python eminem.py
 ```
+
+- Then everyday at  1100 hours run `python eminem.py`
 
 Note: If you are not a eminem fan make a new file and add your fav jango station url there.
