@@ -1,3 +1,5 @@
+## High five to all jango.com fans :heart_eyes:
+
 # Selenium script for running jango.com on restricted network
 
 If you are on a network which block ads and station on jango.com keeps going off air.

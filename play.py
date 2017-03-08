@@ -30,7 +30,7 @@ def check_station_off():
 	while True :
 		wait(5)
 		text=web_obj.text
-		print ("playing song: ",text)
+		print "playing song: " + text
 		if 'station' in text:
 			print ("station is offline restarting music")
 			web_driver_quit()
